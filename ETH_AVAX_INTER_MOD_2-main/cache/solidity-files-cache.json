@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\hcbhu\\Downloads\\module 2 zip file (2)\\module 2 zip file\\ETH_AVAX_INTER_MOD_2-main\\ETH_AVAX_INTER_MOD_2-main\\contracts\\GameToken.sol": {
+      "lastModificationDate": 1719771114386,
+      "contentHash": "e4b79c63f0281f856a4435cb1fd7726e",
+      "sourceName": "contracts/GameToken.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Insurance"
+      ]
+    }
+  }
+}
